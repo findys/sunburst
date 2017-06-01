@@ -2,7 +2,7 @@
 
 from termcolor import colored
 import time
-#import MySQLdb
+import MySQLdb
 import pymongo
 import socket
 import ftplib
